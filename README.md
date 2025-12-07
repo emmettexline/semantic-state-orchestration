@@ -9,6 +9,7 @@ Domain and Ground Rule
 
 Domain: multi‑module language model orchestration with a single interface process and multiple tool modules.
 ​
+
 Ground rule: all user/task information lives in an explicit semantic state S; all interaction with modules is via typed events; any information loss is performed only by explicit summarization operations.
 
 Core Sets and Primitive Types
